@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MSIA.WebFresher052023.API",
+    "\\MSIA.WebFresher052023.API\\Controllers",
+    "\\MSIA.WebFresher052023.API\\Controllers\\Base",
+    "\\MSIA.WebFresher052023.Application",
+    "\\MSIA.WebFresher052023.Application\\Service",
+    "\\MSIA.WebFresher052023.Application\\Service\\Base",
+    "\\MSIA.WebFresher052023.Domain",
+    "\\MSIA.WebFresher052023.Domain\\Exceptions",
+    "\\MSIA.WebFresher052023.Domain\\Service"
+  ],
+  "SelectedNode": "\\MSIA.WebFresher052023.API\\Middleware\\OperationResultMiddleware.cs",
+  "PreviewInSolutionExplorer": false
+}
